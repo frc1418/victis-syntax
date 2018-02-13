@@ -1,0 +1,14 @@
+{
+  "name": "frc-1418-syntax",
+  "version": "0.3.2",
+  "description": "Official Atom theme of the FRC team 1418",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/frc-1418-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
