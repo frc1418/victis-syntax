@@ -1,6 +1,6 @@
 {
   "name": "victis-syntax",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "The official Atom syntax theme of FRC Team 1418",
   "theme": "syntax",
   "keywords": [
