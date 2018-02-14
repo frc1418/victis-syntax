@@ -1,4 +1,4 @@
-# FRC Syntax
+# FRC1418 Syntax
 The official Atom syntax theme of FRC team 1418
 
 ![Screenshot](screenshots/1.png)
@@ -15,6 +15,6 @@ To install through Atom:
 4. Enter "FRC 1418" into the search box.
 5. Click the **Install** button on the "frc-1418-syntax" entry.
 
-To apply the theme: 
+To apply the theme:
 1. Click the **Themes** button two list entries up.
 2. Use the dropdown menu under **Syntax** on the left to select the FRC 1418 theme.
