@@ -1,12 +1,12 @@
 {
-  "name": "frc1418-syntax",
+  "name": "victis-syntax",
   "version": "0.2.0",
-  "description": "The official Atom syntax theme of FRC team 1418",
+  "description": "The official Atom syntax theme of FRC Team 1418",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/ianzullo/frc1418-syntax.git",
+  "repository": "https://github.com/frc1418/victis-syntax.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
