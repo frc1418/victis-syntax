@@ -1,9 +1,7 @@
 # victis-syntax
 The official Atom syntax theme of FRC Team 1418.
 
-![Screenshot](screenshots/1.png)
-![Screenshot](screenshots/2.png)
-![Screenshot](screenshots/3.png)
+![Screenshot](screenshot.png)
 
 ## Installation
 To install through Atom:
