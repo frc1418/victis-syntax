@@ -13,4 +13,4 @@ To install through Atom:
 
 To apply the theme:
 1. Click the **Themes** button two list entries up.
-2. Use the dropdown menu under **Syntax** on the left to select the FRC 1418 theme.
+2. Use the dropdown menu under **Syntax** on the left to select the `Victis` theme.
