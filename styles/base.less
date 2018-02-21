@@ -49,6 +49,17 @@ atom-text-editor {
   .selection .region {
     background-color: @syntax-selection-color;
   }
+  .highlight {
+      &.current-result .region, &.find-result .region {
+          background: @gray;
+          border: none;
+          border-radius: 0;
+      }
+
+      &.current-result .region {
+          background: lighten(@gray, 5%);
+      }
+  }
 }
 
 
